@@ -42,8 +42,8 @@ Deploy the application using one of the methods covered in class: Github Pages, 
 
 Edit this file (README.md) and complete the following:
 
-- URL to live application:
-- How did you deploy it?
-- What code editor are you using?
+- URL to live application: https://aali2537.github.io/homework-2-aali2537/
+- How did you deploy it? Github Pages/Actions
+- What code editor are you using? Visual Studio Code
 
 That is all!
