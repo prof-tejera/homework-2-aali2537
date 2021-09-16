@@ -3,13 +3,13 @@
 This assignment is intented to help you set up your development environment for React. You will create a simple React App and deploy using one of the methods covered in lecture.
 
 ## Step 1
+
 - Install `npx` following the instructions here: https://www.npmjs.com/package/npx
 - run `npx create-react-app my-first-app` to create the React application
 - In the newly created app, replace the contents of `App.js` including your name:
 
 ```
 import './App.css';
-
 function App() {
   return (
     <div className="App">
@@ -22,7 +22,6 @@ function App() {
     </div>
   );
 }
-
 export default App;
 ```
 
@@ -33,16 +32,18 @@ export default App;
 
 `const linkElement = screen.getByText(/Hello CSCI E-39!/i);`
 
-- make sure all tests pass when running `npm run test` 
+- make sure all tests pass when running `npm run test`
 
 ## Step 2
+
 Deploy the application using one of the methods covered in class: Github Pages, Render, or AWS. If you prefer to use a different service, explain your choice and process.
 
 ## Submitting
+
 Edit this file (README.md) and complete the following:
 
-- URL to live application: 
-- How did you deploy it?
-- What code editor are you using?
+- URL to live application: https://aali2537.github.io/homework-2-aali2537/
+- How did you deploy it? Github Pages/Actions
+- What code editor are you using? Visual Studio Code
 
 That is all!
